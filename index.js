@@ -9,4 +9,3 @@ function add5() {
 function divideBy3() {
   number /= 3
 }
-
